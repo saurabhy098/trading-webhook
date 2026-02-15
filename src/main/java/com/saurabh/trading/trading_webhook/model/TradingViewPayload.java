@@ -9,5 +9,5 @@ public class TradingViewPayload {
     private String action;
     private Double price;
     private String time;
-
+    private String externalId;
 }
